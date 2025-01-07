@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CarSharingTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-07T20:42:16" hostname="NI502219" time="0.271">
+  <properties/>
+  <testcase name="start" classname="CarSharingTest" time="0.271"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Table COMPANY created successfully.
+?[1;31m
+Start test 2?[0m
+Table COMPANY created successfully.
+?[1;31m
+Start test 3?[0m
+?[1;31m
+Start test 4?[0m
+?[1;31m
+Start test 5?[0m
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
